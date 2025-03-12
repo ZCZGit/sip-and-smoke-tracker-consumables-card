@@ -1,4 +1,4 @@
-# **Sip & Smoke Consumables Card - Custom Home Assistant Card**
+# **Sip & Smoke Consumables Card**
 
 The **Sip & Smoke Traker Consumables Card** is a custom Home Assistant card designed to display detailed information about consumables (e.g., whisky attributes) in an organized and visually appealing format. This guide explains how to configure the card in YAML for your Home Assistant dashboard.
 
