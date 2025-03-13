@@ -91,7 +91,7 @@ show_footer: false
 ## **Related Cards**
 A custom card which scrapes the `sip-and-smoke-tracker` integration and dynamically populates nested `sip-and-smoke-tracker-consumables-cards` based on consumable type.
 
-**[sip-and-smoke-card](https://gitea-rpiprd.zcznet.uk/gitchadmin/sip-and-smoke-card)**
+**[sip-and-smoke-tracker-card](https://github.com/ZCZGit/sip-and-smoke-tracker-card)**
 
 ## **Contribution**
 
